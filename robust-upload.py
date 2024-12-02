@@ -12,6 +12,7 @@ def Sas_Token():
         "":""
     }
     headers = {
+        #autenticacions
         "x-functions-key": "<function-key-acces>"
     }
     try:
