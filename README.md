@@ -7,6 +7,7 @@ Usando los token SAS de firma compartida, un ejemplo sera de manera mas basica q
 Se utiliza La Api Rest de Storage Account para subir archivos a este
 
 1- normal : <a href="normal-upload.py">metodo normal</a>
+<br>
 2- robusto : <a href="robusto-upload.py">metodo robusto</a>
 
 # Ejemplo de interaccion de diagrama Arquitectura
