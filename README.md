@@ -12,7 +12,7 @@ Se utiliza La Api Rest de Storage Account para subir archivos a este
 
 # Ejemplo de interaccion de diagrama Arquitectura
 
-![](./docs/Animation.gif)
+![](./docs/Animation1.gif)
 
 # Contribucion
 
